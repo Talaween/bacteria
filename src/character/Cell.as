@@ -12,9 +12,14 @@ package character
 		private var _swapAnimation:MovieClip;
 		private var _dieAnimation:MovieClip;
 		
+		
 		public function Cell()
 		{
 			super();
+		}
+		private function testFunction():void
+		{
+			
 		}
 	}
 }
